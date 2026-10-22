@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **Sakze7/Sakze7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakze7&layout=compact&theme=midnight-purple)
